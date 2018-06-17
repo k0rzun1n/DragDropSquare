@@ -1,0 +1,14 @@
+{
+    "circleTimeoutMin": 5,
+    "circleTimeoutMax": 10,
+    "colorStrings": [
+        "#000000",
+        "#0000FF",
+        "#00FF00",
+        "#00FFFF",
+        "#FF0000",
+        "#FF00FF",
+        "#FFFF00",
+        "#FFFFFF"
+    ]
+}
